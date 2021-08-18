@@ -1,0 +1,29 @@
+td,
+th,
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+h2 {
+    margin-left: 1em;
+}
+
+h3 {
+    margin-left: 2em;
+}
+
+p {
+    margin-right: 50%;
+}
+
+.bgimage {
+    /* background-image: url("images/img_lights.jpg"); */
+    background-color: rgba(0, 20, 200, .2);
+    color: white;
+    height: 50px;
+}
+
+.bgimage h1 {
+    margin: 1em;
+}
