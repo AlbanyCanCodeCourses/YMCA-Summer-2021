@@ -7,5 +7,7 @@
 			"path": "..\\AlbanyCanCode\\YMCA-Project-main"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "YMCA-Summer-2021"
+	}
 }
