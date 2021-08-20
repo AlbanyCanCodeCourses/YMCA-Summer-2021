@@ -1,1 +1,58 @@
+.gridbox {
+    display: grid;
+    grid-template-columns: 25% 73%;
+    grid-template-areas: 'car1 rightside' 'car2 rightside' 'car3 rightside' 'car4 rightside' 'car5 rightside' 'car6 rightside';
+    column-gap: 1%;
+}
 
+.right-grid {
+    /* float: left; */
+    grid-row: 1 / 7
+}
+
+div div {
+    background-color: #daad86;
+    height: 100px;
+    /* width: 40%; */
+    border: 2px solid black;
+    padding-left: 1em;
+}
+
+#rightside {
+    grid-area: rightside;
+    height: 100%
+}
+
+#rightside:hover {
+    background-color: #dad986;
+    font-size: 100%;
+}
+
+.car1 {
+    grid-area: car1;
+}
+
+.car2 {
+    grid-area: car2;
+}
+
+.car3 {
+    grid-area: car3;
+}
+
+.car4 {
+    grid-area: car4;
+}
+
+.car5 {
+    grid-area: car5;
+}
+
+.car6 {
+    grid-area: car6;
+}
+
+div div:hover {
+    background-color: rgb(210, 185, 233);
+    font-size: larger;
+}
