@@ -14,10 +14,6 @@
     color: blue;
 }
 
-div {
-    border: 2px solid white;
-}
-
 .head_text {
     font-size: 65px;
     
@@ -42,6 +38,9 @@ div {
     row-gap: 5px;
 }
 
+[class^="grid-item"]{
+    border: solid 2px white;
+}
 .grid-item1 {
     grid-area: item1;
     grid-column-start: 1;
@@ -83,4 +82,7 @@ h2{
     color:blue;
 }
 
-
+.right{
+    float: right;
+    width: 62%;
+}
