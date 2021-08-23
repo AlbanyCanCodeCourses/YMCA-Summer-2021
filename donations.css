@@ -86,3 +86,18 @@ h2{
     float: right;
     width: 74%;
 }
+h3{
+    font-size: 26pt;
+    text-decoration-line: underline;
+}
+
+p{
+    font-size: 16pt;
+}
+.move{
+    transform: translate(820px,-1010px)
+}
+
+.move2{
+    transform: translate(820px,-1010px);
+}
