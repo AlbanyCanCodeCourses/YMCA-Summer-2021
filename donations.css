@@ -4,9 +4,10 @@
 }
 
 .header {
+    flex-direction: column;
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     background-image: url("Green.png");
     height: 600px;
     text-align: center;
@@ -19,6 +20,7 @@ div {
 
 .head_text {
     font-size: 65px;
+    
 }
 
 .dono_text {
@@ -80,3 +82,5 @@ body{
 h2{
     color:blue;
 }
+
+
