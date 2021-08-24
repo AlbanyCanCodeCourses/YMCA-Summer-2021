@@ -6,16 +6,18 @@
 .header {
     flex-direction: column;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    background-image: url("Green.png");
-    height: 600px;
-    text-align: center;
-    color: blue;
+    align-items: left;
+    justify-content:safe;
+    background-image: url("https://nylcv.org/wp-content/uploads/2016/03/green-energy.jpg");
+    height: 575px;
+    color:white;
+    border: solid 3px white;
 }
 
 .head_text {
     font-size: 65px;
+    margin-left: 240px;
+    padding-top: 30px;
     
 }
 
@@ -29,7 +31,7 @@
     display: grid;
     grid-template-columns: 16% 16% 16% 16% 16% 16%;
     background-color: rgba(255, 255, 255, 0.8);
-    border: 1px solid rgba(0, 0, 0, 0.8);
+    border: 1px solid rgba(255, 255, 255, 0.8);
     font-size: 30px;
     text-align: center;
     background-color: #2196F3;
@@ -46,6 +48,7 @@
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row: 1;
+    color: white;
 }
 
 .grid-item2 {
@@ -53,6 +56,8 @@
     grid-column-start: 3;
     grid-column-end: 5;
     grid-row: 1;
+    color: white;
+    
 }
 
 .grid-item3 {
@@ -60,18 +65,21 @@
     grid-column-start: 5;
     grid-column-end: 7;
     grid-row: 1;
+    color: white;
 }
 
 .grid-item4 {
     grid-area: item4;
     grid-column: 1/4;
     grid-row: 2;
+    color: white;
 }
 
 .grid-item5 {
     grid-area: item5;
     grid-row: 2;
     grid-column: 4 /7;
+    color: white;
 }
 
 body{
@@ -79,7 +87,7 @@ body{
 }
 
 h2{
-    color:blue;
+    color:white;
 }
 
 .right{
@@ -89,15 +97,38 @@ h2{
 h3{
     font-size: 26pt;
     text-decoration-line: underline;
+    color:white;
 }
 
 p{
     font-size: 16pt;
+    color:white;
 }
 .move{
     transform: translate(820px,-1010px)
+    
 }
 
 .move2{
     transform: translate(820px,-1010px);
+    
+}
+
+p1{
+    font-size: 20pt;
+    font-weight: 600;
+    margin-left: 20px;
+    padding-top: 40px;
+}
+
+
+
+.pic1{
+    border: solid 2px white;
+}
+
+.bttmrigh{
+    text-align: right;
+    margin-right: 20px;
+    padding-top: 10%;
 }
