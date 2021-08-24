@@ -61,6 +61,7 @@ li a:active {
     float: left;
     width: 120px;
     height: 100%;
+    text-align: center;
 }
 
 .horz_navbar_div li a {
