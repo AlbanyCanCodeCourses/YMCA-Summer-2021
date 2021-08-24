@@ -114,7 +114,7 @@ p{
     
 }
 
-p1{
+p.message{
     font-size: 20pt;
     font-weight: 600;
     margin-left: 20px;
