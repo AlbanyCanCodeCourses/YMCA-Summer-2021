@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <style>
+    html{ background-color: green; text: yellow; font-family: arial; }
+    img {width: 100px; height: 100px;}
+    h1{color: blue; size: 15px;text-align:center; font-family: fantasy;font: bold;}
+    p{font-family: monospace; color:white;font-size: 15px;}
+    p{font-family: monospace;}
+    h2{ color: khaki; size: 13px;}
+    p{size: 15px; color: white; font-family: monospace; }
+    h3{color:chartreuse;font-size:20px; }
+    h4 {font-size: 20px; color: Blue;}
+h5{ font-size: 20px; color: khaki; }
+going{color: blue;}
+green{color: green;}
+  
+  </style>
+  <body>
+   
+</div>
+    <img src="https://bccolonels.com/wp-content/uploads/2018/09/World-Tree.jpg" alt="tree with text saying think green">
+    <h1> Going Green </h1>
+
+<h2> What is "Going Green?" </h2> 
+<p> Going green means going green means doing all of the things you can to preserve the environment such as conserving energy, saving money to protect the economy, reducing pollution and anything else you can think of that is more environmentally friendly than the convenient options </p>  
+<h3> Why You Should Consider Going Green... </h3>
+ <p> going green has benefits for everyone, it reduces the overall negative toxins that we are releasing into the air that stops our body from being able to fight off illnesses as well. Going Greener helps improve air quality, it can reduce the environmental impact you have on the world and then Cuco </p>
+<h4> Where To Begin </h4> 
+<P> have you ever heard of "reduce..reuse..recycle"? That is the first and most important step to an enviromentally friendly lifestyle. </p> 
+<h5> What YOU can do to better the environment </h5>
+<p> 
+<img src="https://www.tamborasi.com/wp-content/uploads/2020/04/going-green-main.jpg" alt="Hello I am going green nametag">
+<img src="https://i0.wp.com/blog.officechairsunlimited.com/wp-content/uploads/2018/03/Recycle-Reduce-Reuse.jpg?fit=3156%2C3156&ssl=1">
+
+    <script src="script.js"></script>
+  </body>
+</html>
