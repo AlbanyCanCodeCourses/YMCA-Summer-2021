@@ -28,6 +28,12 @@ p {
     margin: 1em;
 }
 
+.swatch {
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+}
+
 
 /*
 COLORS
@@ -36,4 +42,13 @@ COLORS
 #daad86 tan
 #bc986a khaki
 #fbeec1 yellow
+*/
+
+
+/*
+Another good scheme
+#11abc1
+#df3062
+#f5b935
+#4bac3f
 */
