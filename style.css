@@ -4,11 +4,10 @@ body {
     background-color: #659dbd;
 }
 
-div.logo {
+div.top {
     display: block;
     position: fixed;
     top: 0;
-    margin-bottom: 1000px;
 }
 
 img.logo {
