@@ -1,5 +1,18 @@
 /* CSS for YMCA Final Project */
 
-bpdy {
+body {
     background-color: #659dbd;
+}
+
+div.logo {
+    display: block;
+    position: fixed;
+    top: 0;
+    margin-bottom: 1000px;
+}
+
+img.logo {
+    display: block;
+    margin-bottom: 100px;
+    ;
 }
