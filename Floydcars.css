@@ -57,6 +57,6 @@ div div:hover {
     font-size: larger;
 }
 
-.move{
-    font-style: italic;
+td p {
+    text-align: center;
 }
