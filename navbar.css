@@ -46,6 +46,7 @@ li a:active {
     width: 50%;
     height: 75px;
     background-color: #8d8741;
+    float: inline-end;
 }
 
 .horz_navbar_div ul {

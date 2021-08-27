@@ -7,14 +7,19 @@ body {
 div.top {
     display: block;
     position: fixed;
-    top: 0;
+    top: 20px;
 }
 
 .logohead {
     display: inline;
     margin-bottom: 100px;
     position: fixed;
-    top: 0;
+    top: 20px;
+}
+
+.logo {
+    margin-top: 75px;
+    float: inline-start;
 }
 
 img.logo {
