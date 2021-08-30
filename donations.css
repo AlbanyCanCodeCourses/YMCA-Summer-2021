@@ -1,5 +1,5 @@
 .banner {
-    background-color: #2196F3;
+    background-color: #659dbd;
     height: 20px;
 }
 
@@ -35,7 +35,7 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     font-size: 30px;
     text-align: center;
-    background-color: #2196F3;
+    background-color: #659dbd;
     padding: 10px;
     column-gap: .75%;
     row-gap: 5px;
@@ -83,28 +83,9 @@
     color: white;
 }
 
-body {
-    background-color: #0db249;
-}
-
-h2 {
-    color: white;
-}
-
 .right {
     float: right;
     width: 74%;
-}
-
-h3 {
-    font-size: 26pt;
-    text-decoration-line: underline;
-    color: white;
-}
-
-p {
-    font-size: 16pt;
-    color: white;
 }
 
 .move {
