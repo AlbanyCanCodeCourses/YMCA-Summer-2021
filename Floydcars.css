@@ -21,12 +21,13 @@ div div {
 #rightside {
     grid-area: rightside;
     height: 100%
-}m 
-
-#rightside:hover {
-    background-color: #dad986;
-    font-size: 100%;
 }
+
+
+/* m #rightside:hover {
+    background-color: #daad86;
+    font-size: 100%;
+} */
 
 .car1 {
     grid-area: car1;
@@ -53,7 +54,6 @@ div div {
 }
 
 div div:hover {
-    background-color: rgb(210, 185, 233);
+    background-color: #fbeec1;
     font-size: larger;
 }
-
