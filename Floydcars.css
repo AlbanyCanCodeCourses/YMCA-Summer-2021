@@ -21,10 +21,10 @@ div div {
 #rightside {
     grid-area: rightside;
     height: 100%
-}
+}m 
 
-m #rightside:hover {
-    background-color: #659dbd;
+#rightside:hover {
+    background-color: #dad986;
     font-size: 100%;
 }
 
@@ -56,3 +56,4 @@ div div:hover {
     background-color: rgb(210, 185, 233);
     font-size: larger;
 }
+
