@@ -8,6 +8,7 @@ div.top {
     display: block;
     position: fixed;
     top: 20px;
+    margin-bottom: 100px;
 }
 
 .logohead {
@@ -18,8 +19,11 @@ div.top {
 }
 
 .logo {
-    margin-top: 75px;
     float: inline-start;
+}
+
+.logo>h1 {
+    vertical-align: middle;
 }
 
 img.logo {

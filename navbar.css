@@ -12,32 +12,6 @@
 }
 
 
-/* for vertical navbar */
-
-.vert_navbar_div {
-    position: fixed;
-    top: 100px;
-    height: 100%;
-}
-
-.vert_navbar_div li a {
-    display: block;
-    width: 100%;
-    text-align: center;
-    height: 30px;
-    background-color: #8d8741;
-    padding: 20%;
-}
-
-li a:hover {
-    background-color: #fbeec1;
-}
-
-li a:active {
-    background-color: #daad86;
-}
-
-
 /*  for horizontal navbar */
 
 .horz_navbar_div {
@@ -45,15 +19,16 @@ li a:active {
     top: 0;
     width: 50%;
     height: 75px;
-    background-color: #8d8741;
-    float: inline-end;
+    background-color: #daad86;
+    /* float: inline-start; */
+    margin-left: 25%;
 }
 
 .horz_navbar_div ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-color: #8d8741;
+    background-color: #daad86;
     height: 100%;
     overflow: hidden;
 }
@@ -71,9 +46,13 @@ li a:active {
     height: 100%;
 }
 
+.horz_navbar_div li a:hover {
+    background-color: #fbeec1;
+    text-decoration: none;
+}
+
 .horz_navbar_div li a:link,
 .horz_navbar_div li a:visited,
-.horz_navbar_div li a:hover,
 .horz_navbar_div li a:active {
     text-decoration: none;
 }
