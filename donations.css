@@ -1,0 +1,35 @@
+.banner{
+    background-color: blue;
+    height: 20px;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("Green.png");
+    height: 600px;
+    text-align: center;
+    color:blue;
+    
+}
+.head_text{
+    font-size: 65px;
+}
+
+.dono_text{
+   text-align: center;
+   font-size: 25px;
+   padding-top: 20px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 200px 200px 200px ;
+    background-color: rgba(255, 255, 255, 0.8);
+        border: 1px solid rgba(0, 0, 0, 0.8);
+         font-size: 30px;
+        text-align: center;
+    background-color: #2196F3;
+    padding: 10px;
+}
+
