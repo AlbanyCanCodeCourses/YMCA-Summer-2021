@@ -1,0 +1,61 @@
+table,
+    th,
+    td {
+        background-color: white;
+        border: 2px blue solid;
+        color: black;
+        border-collapse: collapse;
+    }
+    
+    html {
+        background-color: green;
+        color: yellow;
+        font-family: arial;
+    }
+    
+    img {
+        width: 100px;
+        height: 100px;
+    }
+    
+    h1 {
+        color: blue;
+        size: 15px;
+        text-align: center;
+        font-family: fantasy;
+        font: bold;
+    }
+    
+    p {
+        font-family: monospace;
+        color: white;
+        font-size: 19px;
+        size: 15px;
+        color: white;
+        font-family: monospace;
+    }
+    
+    h2 {
+        color: khaki;
+        size: 15px;
+    }
+    
+    h3 {
+        color: blue;
+        font-size: 20px;
+    }
+    
+    h4 {
+        font-size: 20px;
+        color: chartreuse;
+    }
+    
+    h5 {
+        font-size: 20px;
+        color: khaki;
+    }
+    
+    ul {
+        color: khaki;
+        font-size: 20px;
+        font-family: fantasy;}

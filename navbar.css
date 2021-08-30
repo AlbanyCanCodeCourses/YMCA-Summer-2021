@@ -41,11 +41,12 @@ li a:active {
 /*  for horizontal navbar */
 
 .horz_navbar_div {
-    position: fixed;
+    /* position: fixed; */
     top: 0;
     width: 50%;
     height: 75px;
     background-color: #8d8741;
+    float: inline-end;
 }
 
 .horz_navbar_div ul {
@@ -68,4 +69,11 @@ li a:active {
     display: block;
     padding: 10px;
     height: 100%;
+}
+
+.horz_navbar_div li a:link,
+.horz_navbar_div li a:visited,
+.horz_navbar_div li a:hover,
+.horz_navbar_div li a:active {
+    text-decoration: none;
 }

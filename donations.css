@@ -1,5 +1,5 @@
 .banner {
-    background-color:#bc986a;
+    background-color: #659dbd;
     height: 20px;
 }
 
@@ -7,10 +7,12 @@
     flex-direction: column;
     display: flex;
     align-items: left;
-    justify-content:safe;
+    justify-content: safe;
     background-image: url("https://nylcv.org/wp-content/uploads/2016/03/green-energy.jpg");
-    height: 575px;
-    color:white;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 15%;
+    color: white;
     border: solid 3px white;
 }
 
@@ -18,7 +20,6 @@
     font-size: 65px;
     margin-left: 240px;
     padding-top: 30px;
-    
 }
 
 .dono_text {
@@ -34,15 +35,16 @@
     border: 1px solid rgba(255, 255, 255, 0.8);
     font-size: 30px;
     text-align: center;
-    background-color: #daad86;
+    background-color: #659dbd;
     padding: 10px;
-    column-gap: 0.75%;
+    column-gap: .75%;
     row-gap: 5px;
 }
 
-[class^="grid-item"]{
+[class^="grid-item"] {
     border: solid 2px white;
 }
+
 .grid-item1 {
     grid-area: item1;
     grid-column-start: 1;
@@ -57,7 +59,6 @@
     grid-column-end: 5;
     grid-row: 1;
     color: white;
-    
 }
 
 .grid-item3 {
@@ -82,52 +83,31 @@
     color: white;
 }
 
-body{
-    background-color:#8d8741;
-}
-
-h2{
-    color:white;
-}
-
-.right{
+.right {
     float: right;
     width: 74%;
 }
-h3{
-    font-size: 26pt;
-    text-decoration-line: underline;
-    color:white;
+
+.move {
+    transform: translate(820px, -1010px);
 }
 
-p{
-    font-size: 16pt;
-    color:white;
-}
-.move{
-    transform: translate(820px,-1010px);
-    
+.move2 {
+    transform: translate(820px, -1010px);
 }
 
-.move2{
-    transform: translate(820px,-1010px);
-    
-}
-
-p.message{
+p.message {
     font-size: 20pt;
     font-weight: 600;
     margin-left: 20px;
     padding-top: 40px;
 }
 
-
-
-.pic1{
+.pic1 {
     border: solid 2px white;
 }
 
-.bttmrigh{
+.bttmrigh {
     text-align: right;
     margin-right: 20px;
     padding-top: 10%;

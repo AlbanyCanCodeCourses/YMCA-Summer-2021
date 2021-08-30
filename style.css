@@ -1,5 +1,45 @@
 /* CSS for YMCA Final Project */
 
-bpdy {
-    background-color: #659dbd;
+body {
+    background-color: #fbeec1;
 }
+
+div.top {
+    display: block;
+    position: fixed;
+    top: 20px;
+}
+
+.logohead {
+    display: inline;
+    margin-bottom: 100px;
+    position: fixed;
+    top: 20px;
+}
+
+.logo {
+    margin-top: 75px;
+    float: inline-start;
+}
+
+img.logo {
+    display: inline-block;
+}
+
+table,
+th,
+td {
+    background-color: #fbeec1;
+    border: 2px #659dbd solid;
+    color: black;
+    border-collapse: collapse;
+}
+
+
+/* COLORS 
+    #8d8741 green 
+    #659dbd blue
+    #daad86 tan
+    #bc986a khaki
+    #fbeec1 yellow 
+ */
