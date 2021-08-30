@@ -11,7 +11,7 @@
 }
 
 div div {
-    background-color: #daad86;
+    background-color: #bc986a;
     height: 100px;
     /* width: 40%; */
     border: 2px solid black;
@@ -21,10 +21,10 @@ div div {
 #rightside {
     grid-area: rightside;
     height: 100%
-}m 
+}
 
-#rightside:hover {
-    background-color: #dad986;
+m #rightside:hover {
+    background-color: #659dbd;
     font-size: 100%;
 }
 
@@ -53,7 +53,15 @@ div div {
 }
 
 div div:hover {
-    background-color: rgb(210, 185, 233);
+    background-color: #659dbd;
     font-size: larger;
 }
 
+
+/* COLORS 
+    #8d8741 green 
+    #659dbd blue
+    #daad86 tan
+    #bc986a khaki
+    #fbeec1 yellow 
+ */
