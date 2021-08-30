@@ -23,7 +23,7 @@ div div {
     height: 100%
 }
 
-m #rightside:hover {
+#rightside:hover {
     background-color: #659dbd;
     font-size: 100%;
 }
