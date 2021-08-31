@@ -72,6 +72,15 @@ td {
     margin-left: 0%;
 }
 
+table,
+th,
+td {
+    background-color: #fbeec1;
+    border: 2px #659dbd solid;
+    color: black;
+    border-collapse: collapse;
+}
+
 
 /*  for horizontal navbar */
 
