@@ -53,11 +53,8 @@ td {
 
 .content {
     padding-top: 10%;
-    /* margin-left: 26%; */
+    margin-left: 5%;
 }
-
-
-/*  for horizontal navbar */
 
 .horz_navbar_div {
     /* position: fixed; */
@@ -103,6 +100,16 @@ td {
 .horz_navbar_div li a:active {
     text-decoration: none;
     color: black;
+}
+
+.name {
+    text-decoration: underline;
+    margin-bottom: 0;
+}
+
+.title {
+    font-style: italic;
+    margin-top: 0;
 }
 
 
