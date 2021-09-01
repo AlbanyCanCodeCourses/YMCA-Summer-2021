@@ -11,7 +11,7 @@
 }
 
 div div {
-    background-color: #042b0d;
+    background-color: #daad86;
     height: 100px;
     /* width: 40%; */
     border: 2px solid black;
@@ -53,6 +53,6 @@ div div {
 }
 
 div div:hover {
-    background-color: rgb(75, 14, 131);
+    background-color: rgb(210, 185, 233);
     font-size: larger;
 }

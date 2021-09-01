@@ -1,48 +1,3 @@
-/* CSS for YMCA Final Project */
-
-body {
-    background-color: #fbeec1;
-}
-
-div.top {
-    display: block;
-    position: fixed;
-    top: 20px;
-    margin-bottom: 100px;
-}
-
-.logohead {
-    display: inline;
-    margin-bottom: 100px;
-    position: fixed;
-    top: 0px;
-}
-
-.logo {
-    float: inline-start;
-    background-color: #fbeec19b;
-}
-
-.logo h1 {
-    vertical-align: middle;
-}
-
-img.logo {
-    display: inline-block;
-}
-
-table,
-th,
-td {
-    background-color: #fbeec1;
-    border: 2px #659dbd solid;
-    color: black;
-    border-collapse: collapse;
-}
-
-
-/* NAVBAR STYLES  */
-
 .vert_navbar_div ul {
     list-style-type: none;
     margin: 0;
@@ -53,7 +8,7 @@ td {
 
 .content {
     padding-top: 10%;
-    /* margin-left: 26%; */
+    margin-left: 26%;
 }
 
 
@@ -94,21 +49,10 @@ td {
 .horz_navbar_div li a:hover {
     background-color: #fbeec1;
     text-decoration: none;
-    font-size: larger;
 }
 
 .horz_navbar_div li a:link,
 .horz_navbar_div li a:visited,
 .horz_navbar_div li a:active {
     text-decoration: none;
-    color: black;
 }
-
-
-/* COLORS 
-    #8d8741 green 
-    #659dbd blue
-    #daad86 tan
-    #bc986a khaki
-    #fbeec1 yellow 
- */

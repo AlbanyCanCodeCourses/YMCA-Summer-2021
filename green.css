@@ -1,9 +1,3 @@
-/* CSS for YMCA Final Project */
-
-body {
-    background-color: #fbeec1;
-}
-
 div.top {
     display: block;
     position: fixed;
@@ -20,12 +14,9 @@ div.top {
 
 .logo {
     float: inline-start;
-    background-color: #fbeec19b;
+    background-color: #fbeec19b; vertical-align: middle;
 }
 
-.logo h1 {
-    vertical-align: middle;
-}
 
 img.logo {
     display: inline-block;
@@ -40,34 +31,11 @@ td {
     border-collapse: collapse;
 }
 
-
-/* NAVBAR STYLES  */
-
-.vert_navbar_div ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-}
-
+body {background-color: #daad86;}
 .content {
     padding-top: 10%;
-    /* margin-left: 26%; */
 }
 
-
-/*  for horizontal navbar */
-
-.horz_navbar_div {
-    /* position: fixed; */
-    top: 0;
-    width: 50%;
-    height: 75px;
-    background-color: #daad86;
-    /* float: inline-start; */
-    margin-left: 25%;
-}
 
 .horz_navbar_div ul {
     list-style-type: none;
@@ -77,14 +45,6 @@ td {
     height: 100%;
     overflow: hidden;
 }
-
-.horz_navbar_div li {
-    float: left;
-    width: 120px;
-    height: 100%;
-    text-align: center;
-}
-
 .horz_navbar_div li a {
     display: block;
     padding: 10px;
@@ -103,12 +63,53 @@ td {
     text-decoration: none;
     color: black;
 }
+    
+    img {
+        width: 100px;
+        height: 100px;
+    }
+    
+    h1 {
+        color: blue;
+        size: 15px;
+        text-align: center;
+        font-family: fantasy;
+        font: bold;
+    }
+    
+    p {
+        color: white;
+        font-size: 19px;
+        size: 15px;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;text-align: center;
+    }
+    
+    h2 {
+        color: khaki;
+        size: 15px;
+        text-align:center ;
+    }
+    
+    h3 {
+        color: blue;
+        font-size: 20px;
+    }
+    
+    h4 {
+        font-size: 20px;
+        color: chartreuse;
+    }
+    
+    h5 {
+        font-size: 20px;
+        color: blue;
+    }
+    
+    ul {
+        color: khaki;
+        font-size: 20px;
+        font-family: fantasy;
+    }
+    
 
-
-/* COLORS 
-    #8d8741 green 
-    #659dbd blue
-    #daad86 tan
-    #bc986a khaki
-    #fbeec1 yellow 
- */
