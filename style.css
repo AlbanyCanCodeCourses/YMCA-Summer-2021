@@ -89,6 +89,7 @@ td {
     display: block;
     padding: 10px;
     height: 100%;
+    line-height: 50px;
 }
 
 .horz_navbar_div li a:hover {

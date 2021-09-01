@@ -3,7 +3,7 @@
     grid-template-columns: 25% 73%;
     grid-template-areas: 'car1 rightside' 'car2 rightside' 'car3 rightside' 'car4 rightside' 'car5 rightside' 'car6 rightside';
     column-gap: 1%;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 .right-grid {
