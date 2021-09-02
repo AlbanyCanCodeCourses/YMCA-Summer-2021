@@ -2,6 +2,7 @@
 
 body {
     background-color: #fbeec1;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 div.top {
@@ -59,11 +60,11 @@ td {
 .horz_navbar_div {
     /* position: fixed; */
     top: 0;
-    width: 50%;
+    width: 1000px;
     height: 75px;
     background-color: #daad86;
     /* float: inline-start; */
-    margin-left: 25%;
+    margin-left: 360px;
 }
 
 .horz_navbar_div ul {
@@ -77,14 +78,14 @@ td {
 
 .horz_navbar_div li {
     float: left;
-    width: 120px;
+    width: 100px;
     height: 100%;
     text-align: center;
 }
 
 .horz_navbar_div li a {
     display: block;
-    padding: 10px;
+    padding: 5px;
     height: 100%;
     line-height: 50px;
 }
