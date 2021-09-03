@@ -17,6 +17,7 @@ div.top {
     margin-bottom: 100px;
     position: fixed;
     top: 0px;
+    background-color: #fbeec19b;
 }
 
 .logo {
@@ -39,6 +40,7 @@ td {
     border: 2px #659dbd solid;
     color: black;
     border-collapse: collapse;
+    padding: 5px;
 }
 
 
@@ -55,6 +57,7 @@ td {
 .content {
     padding-top: 10%;
     margin-left: 5%;
+    margin-right: 15%;
 }
 
 .horz_navbar_div {
@@ -64,7 +67,7 @@ td {
     height: 75px;
     background-color: #daad86;
     /* float: inline-start; */
-    margin-left: 360px;
+    margin-left: 420px;
 }
 
 .horz_navbar_div ul {
@@ -116,6 +119,17 @@ td {
 .tagline {
     font-style: italic;
     margin-top: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.cars {
+    /* color: #8d8741; */
+    color: #659dbd;
 }
 
 
