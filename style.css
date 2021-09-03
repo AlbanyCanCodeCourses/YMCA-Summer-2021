@@ -121,6 +121,17 @@ td {
     margin-top: 0;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.cars {
+    /* color: #8d8741; */
+    color: #659dbd;
+}
+
 
 /* COLORS 
     #8d8741 green 
