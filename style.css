@@ -37,10 +37,14 @@ table,
 th,
 td {
     background-color: #fbeec1;
-    border: 2px #659dbd solid;
+    border: 2px #8d8741 solid;
     color: black;
     border-collapse: collapse;
     padding: 5px;
+}
+
+th {
+    color: #659dbd;
 }
 
 
@@ -84,6 +88,7 @@ td {
     width: 100px;
     height: 100%;
     text-align: center;
+    color: #659dbd;
 }
 
 .horz_navbar_div li a {
@@ -91,6 +96,7 @@ td {
     padding: 5px;
     height: 100%;
     line-height: 50px;
+    color: #659dbd;
 }
 
 .horz_navbar_div li a:hover {
